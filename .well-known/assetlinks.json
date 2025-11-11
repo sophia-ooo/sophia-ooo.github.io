@@ -1,0 +1,7 @@
+[{
+  "relation": ["lookalikes/allowlist"],
+  "target" : { "namespace": "web", "site": "https://sophia.ooo"}
+},{
+  "relation": ["lookalikes/allowlist"],
+  "target" : { "namespace": "web", "site": "https://sophia-ooo.github.io"}
+}]
